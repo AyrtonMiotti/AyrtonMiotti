@@ -1,4 +1,4 @@
-- 👋 Hola, soy @AyrtonMiotti
+- 👋 Hola, soy @AyrtonMiotti.
 - 👀 Estoy interasado en el desarrollo de software en general.
 
 - 🌱 Soy Autodidacta, lo que me permite aprender más rápido ciertas cosas.
